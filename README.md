@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaniitp&label=Profile%20views&color=0e75b6&style=flat" alt="amaniitp" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, AI, Problem solving.**
+- 💬 Ask me about **Competitive Programming, Algorithms, Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **aamanvermalmp@gmail.com**
 
